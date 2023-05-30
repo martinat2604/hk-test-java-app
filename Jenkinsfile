@@ -1,4 +1,4 @@
-@Library('my-shared-library') _
+@Library('jenkins-library') _
 pipeline_ci_cd{
 
 }
