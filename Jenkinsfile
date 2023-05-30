@@ -1,4 +1,4 @@
-@Library('jenkins-library') _
+@Library('jenkins-library@master') _
 pipeline_ci_cd{
 
 }
